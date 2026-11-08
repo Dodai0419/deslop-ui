@@ -1,0 +1,17 @@
+Third-party notices
+
+The launch audit (page checks, site checks, page weight, placeholder and AI-copy
+patterns) is ported from juliobsz/skills (jury/scripts/audit.mjs), MIT License:
+  Copyright (c) 2026 Julio (juliobsz)
+
+These portions are provided under the same MIT permission notice and warranty
+disclaimer printed above, which applies to them with their authors' copyright.
+
+The slop signs and their fixes are adapted from heydamir/unslop
+(skills/unslop/references/signs.md) by Damir Sokolovsky, licensed under
+Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/).
+Changes: the signs were shortened and turned into regular expressions; only the
+signs that can be found in source code are kept.
+
+examples/hero.html and examples/dashboard.html are copied unchanged from
+heydamir/unslop (examples/), by Damir Sokolovsky, CC BY 4.0.

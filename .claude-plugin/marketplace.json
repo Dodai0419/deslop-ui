@@ -1,0 +1,13 @@
+{
+  "name": "deslop-ui",
+  "owner": {
+    "name": "Dodai0419"
+  },
+  "plugins": [
+    {
+      "name": "deslop-ui",
+      "source": "./",
+      "description": "Find the AI look and the launch blockers in your built site, straight from disk: one Python file, no server."
+    }
+  ]
+}

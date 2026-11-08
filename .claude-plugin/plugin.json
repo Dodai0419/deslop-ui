@@ -1,0 +1,8 @@
+{
+  "name": "deslop-ui",
+  "description": "Find the AI look and the launch blockers in your built site, straight from disk: one Python file, no server.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dodai0419"
+  }
+}
